@@ -1,0 +1,26 @@
+[
+  {
+    "brand": "63be9116e518c6cec7392352",
+    "name": "Flying Shoes",
+    "liveDate": "2022-06-01T00:00:00.000Z",
+    "category": "beauty",
+    "tags": ["63bed3780584c96e91079747", "63bed3780584c96e91079745"],
+    "driveURL": "https://drive.google.com/drive/folders/flying_shoes",
+    "videoURL": "https://youtube.com/watch?v=flying_shoes",
+    "createdAt": "2022-11-15T00:00:00.000Z"
+  },
+  {
+    "brand": "63be9116e518c6cec7392355",
+    "name": "Catch The Shirt",
+    "liveDate": "2022-09-05T00:00:00.000Z",
+    "category": "gaming",
+    "tags": [
+      "63bed3780584c96e9107973f",
+      "63bed3780584c96e91079740",
+      "63bed3780584c96e91079748"
+    ],
+    "driveURL": "https://drive.google.com/catch_the_shirt.jpg",
+    "videoURL": "https://youtube.com/watch?v=catch_the_shirt",
+    "createdAt": "2022-07-23T00:00:00.000Z"
+  }
+]

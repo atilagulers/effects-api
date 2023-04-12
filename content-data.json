@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Try on",
+    "tags": [
+      "Hat",
+      "Glasses",
+      "Jewelry",
+      "Accessory",
+      "Watch",
+      "Clothing",
+      "Shoes"
+    ],
+    "createdAt": "2022-11-15T00:00:00.000Z"
+  },
+  {
+    "name": "Segmentation",
+    "tags": [
+      "Face",
+      "Background",
+      "Skin",
+      "Head",
+      "Garment",
+      "Sky",
+      "Body",
+      "Footwear"
+    ],
+    "createdAt": "2022-11-15T00:00:00.000Z"
+  },
+  {
+    "name": "UI",
+    "tags": [
+      "Split Screen",
+      "Multiple Screen",
+      "Buttons",
+      "Sliders",
+      "Carousel",
+      "Interactions"
+    ],
+    "createdAt": "2022-11-15T00:00:00.000Z"
+  }
+]
